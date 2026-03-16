@@ -3,7 +3,7 @@
 > **Code Release TBD.**
 
 <p align="center">
-  <img src="./assets/overview.png" alt="Overview of EntropyCache" width="85%">
+  <img src="./assets/overview.pdf" alt="Overview of EntropyCache" width="85%">
 </p>
 
 ## Acknowledgments
