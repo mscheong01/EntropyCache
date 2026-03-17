@@ -1,4 +1,4 @@
-# EntropyCache
+# EntropyCache: Decoded Token Entropy Guided KV Caching for Diffusion Language Models
 
 > **Code Release TBD.**
 
