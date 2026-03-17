@@ -7,6 +7,7 @@
 </p>
 
 ## Acknowledgments
+We would like to express our gratitude to the previous studies on DLLM KV caching that inspired our work. Special thanks go to the authors of D2Cache for providing excellent open-source code, which served as a valuable foundation for our experimental framework. We also acknowledge the developers of LLADA and Dream for making their models publicly available, which were instrumental in our experiments.
 
 ## Citation
 
