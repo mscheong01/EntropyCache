@@ -14,5 +14,10 @@ We would like to express our gratitude to the previous studies on DLLM KV cachin
 If you find this work useful, please cite our paper:
 
 ```bibtex
-
+@article{cheong2026entropycache,
+  title={EntropyCache: Decoded Token Entropy Guided KV Caching for Diffusion Language Models},
+  author={Cheong, Minsoo and Son, Donghyun and Lim, Woosang and Yoo, Sungjoo},
+  journal={arXiv preprint arXiv:2603.18489},
+  year={2026}
+}
 ```
