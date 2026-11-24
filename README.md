@@ -1,12 +1,16 @@
 # EntropyCache: Decoded Token Entropy Guided KV Caching for Diffusion Language Models
 
 <p align="center">
+<a href="https://neurips.cc/virtual/2026/loc/sydney/poster/152767"><img alt="NeurIPS 2026" src="https://img.shields.io/badge/NeurIPS-2026-blue"></a>
 <a href="https://arxiv.org/abs/2603.18489"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2603.18489-red"></a>
 </p>
 
 <p align="center">
   <img src="./assets/overview.png" alt="Overview of EntropyCache" width="85%">
 </p>
+
+## News
+- EntropyCache is accepted to **NeurIPS 2026**! Visit our [poster](https://neurips.cc/virtual/2026/loc/sydney/poster/152767) in Sydney (Hall 1-4 #S2015, Wed, Dec 9, 10:00 AM – 1:00 PM AEDT).
 
 ## Setup
 ```bash
@@ -76,10 +80,10 @@ We would like to express our gratitude to the previous studies on DLLM KV cachin
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@article{cheong2026entropycache,
+@inproceedings{cheong2026entropycache,
   title={EntropyCache: Decoded Token Entropy Guided KV Caching for Diffusion Language Models},
   author={Cheong, Minsoo and Son, Donghyun and Lim, Woosang and Yoo, Sungjoo},
-  journal={arXiv preprint arXiv:2603.18489},
+  booktitle={Advances in Neural Information Processing Systems},
   year={2026}
 }
 ```
