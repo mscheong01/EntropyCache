@@ -1,0 +1,3 @@
+_target_: src.cache.entropyCache
+entropy_threshold: 1.5
+k_recent_keep: 64

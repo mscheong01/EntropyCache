@@ -1,0 +1,2 @@
+_target_: src.cache.elasticCache
+similarity_threshold: 0.9

@@ -1,0 +1,10 @@
+defaults:
+  - vanilla
+  - _self_
+  
+strategy: sliding_window
+
+window_size: 32
+# gen_length: 256
+# # steps = gen_length / window_size
+# steps: 8
